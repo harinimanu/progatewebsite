@@ -1,0 +1,44 @@
+.header{
+	background-color:#c99583;
+	float:left;
+	width: 100%;
+}
+.header-title i{
+	color:#ba7704;
+}
+hr{
+	color:#808080;
+	background:#808080;
+	height:2px;
+	border:none;
+}
+.header-list li{
+	list-style: none;
+	float:left;
+	padding: 33px 20px;
+}
+.header-k li{
+	float:right;
+	font-size: 20px;
+	color: #ba7704;
+}
+.main{
+	background-color: #a6c983;
+}
+.footer{
+	background-color:#854e4e;
+	height: 150px;
+}
+.footer-title{
+	font-size:33px;
+	float:left;
+	color:#141313;
+}
+.footer-list{
+	float: right;
+}
+.footer-list li{
+	list-style: none;
+	padding-bottom: 10px;
+	color:#141313;
+}
